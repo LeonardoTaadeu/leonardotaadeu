@@ -32,7 +32,7 @@ Vai um café? ☕
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Java/Java-original.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Java/Java-original.svg](https://www.vectorlogo.zone/logos/java/java-ar21.svg)" 
 />
 <img 
     align="left" 
