@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Leonardo Tadeu
 
-**`Desenvolvedor Java ☕`**
+**`QA ☕`**
 
 
 Prazer, meu nome é Leonardo, bem vindo ao meu github! 
