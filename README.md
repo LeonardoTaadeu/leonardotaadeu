@@ -1,12 +1,9 @@
-# 👩🏻‍💻 Leonardo Tadeu
+# Leonardo Tadeu
 
 **`QA ☕`**
 
+UFABC vai acabar comigo
 
 Vai um café? ☕
 
----
-
-<br/>
-<br/>
 
